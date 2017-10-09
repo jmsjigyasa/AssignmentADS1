@@ -1,7 +1,7 @@
 # Assignment1ADS
 
 TeamMembers:
-    Jigyasa KOhli
+    Jigyasa Kohli
     Tushar Goel
     
 
